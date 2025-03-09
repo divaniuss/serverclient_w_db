@@ -1,7 +1,7 @@
 import socket
 import pyodbc
 from datetime import datetime
-
+# sever
 # Параметры подключения к базе данных
 server_base = r'localhost\SQLEXPRESS'
 database = 'db_name'
